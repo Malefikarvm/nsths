@@ -1,0 +1,19 @@
+.square{
+    height:35px;
+    width:35px;
+}
+
+.circle{
+    border-radius: 35px;
+    height:35px;
+    width:35px;
+
+}
+
+.screen{
+    height:100%;
+    width:100%;
+    background:none;
+    color:#ffffff;
+    position: fixed;
+}
